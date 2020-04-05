@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_tool_smtp_tester",
+  "version": "1.0.0",
+  "description": "A simple script to test sending email using nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luik/nodejs_tool_smtp_tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luik/nodejs_tool_smtp_tester/issues"
+  },
+  "homepage": "https://github.com/luik/nodejs_tool_smtp_tester#readme",
+  "devDependencies": {
+    "nodemailer": "^6.4.6"
+  }
+}
